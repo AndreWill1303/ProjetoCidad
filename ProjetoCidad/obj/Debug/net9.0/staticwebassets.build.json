@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yu1Xf7J+ntg72h2i4VZ7bbWGYP+L+Gncre3lpXXPbcI=",
+  "Hash": "K7y94H11XMMz0AEk/pfp+9Si4TCMQRo2PfqDJr3SZFo=",
   "Source": "ProjetoCidad",
   "BasePath": "_content/ProjetoCidad",
   "Mode": "Default",
@@ -374,6 +374,27 @@
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\7nv2yj890a-kskatr43af.gz",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/CasdProduto#[.{fingerprint=kskatr43af}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\CasdProduto.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "he5ggfz79v",
+      "Integrity": "WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\CasdProduto.css"
+    },
+    {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\85gd5u85ot-d7shbmvgxk.gz",
       "SourceId": "ProjetoCidad",
       "SourceType": "Discovered",
@@ -521,6 +542,27 @@
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\dcxkqb1ypb-pq3dbrgyn0.gz",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/EditarProduto#[.{fingerprint=pq3dbrgyn0}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\EditarProduto.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bsycgo2h64",
+      "Integrity": "5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\EditarProduto.css"
+    },
+    {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\e7vp9d2c60-fsbi9cje9m.gz",
       "SourceId": "ProjetoCidad",
       "SourceType": "Discovered",
@@ -584,6 +626,27 @@
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\gy2km7esef-qr1350ejm6.gz",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/Produto#[.{fingerprint=qr1350ejm6}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Produto.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "huvu22pk51",
+      "Integrity": "uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Produto.css"
+    },
+    {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\h93xqi7q3b-v0zj4ognzu.gz",
       "SourceId": "ProjetoCidad",
       "SourceType": "Discovered",
@@ -603,6 +666,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\hfo3bv8v3k-b9kodx8jwi.gz",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/Login#[.{fingerprint=b9kodx8jwi}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "spwm2w2fqq",
+      "Integrity": "4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Login.css"
     },
     {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\ivkibgeni8-ag7o75518u.gz",
@@ -729,6 +813,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\ks96ducl88-g57gmzz2no.gz",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/Home#[.{fingerprint=g57gmzz2no}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wpsh6ixb8p",
+      "Integrity": "pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Home.css"
     },
     {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\lc4eowd702-d7oyuc9vmj.gz",
@@ -1298,6 +1403,27 @@
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\y9wdwhcs6w-p71hbyw5mq.gz",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/ListarProduto#[.{fingerprint=p71hbyw5mq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\ListarProduto.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wv4jk5yds1",
+      "Integrity": "hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\ListarProduto.css"
+    },
+    {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\yc46x61ven-b7pk76d08c.gz",
       "SourceId": "ProjetoCidad",
       "SourceType": "Discovered",
@@ -1401,6 +1527,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ProjetoCidad.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\CasdProduto.css",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/CasdProduto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kskatr43af",
+      "Integrity": "xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\CasdProduto.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\EditarProduto.css",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/EditarProduto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pq3dbrgyn0",
+      "Integrity": "z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\EditarProduto.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Home.css",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g57gmzz2no",
+      "Integrity": "NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\ListarProduto.css",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/ListarProduto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p71hbyw5mq",
+      "Integrity": "m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ListarProduto.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Login.css",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/Login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b9kodx8jwi",
+      "Integrity": "jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Produto.css",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "css/Produto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qr1350ejm6",
+      "Integrity": "Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Produto.css"
     },
     {
       "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\site.css",
@@ -2724,9 +2976,1818 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\video\\moranguinho.mp4",
+      "SourceId": "ProjetoCidad",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\",
+      "BasePath": "_content/ProjetoCidad",
+      "RelativePath": "video/moranguinho#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1pspf2pmpt",
+      "Integrity": "hSSXiY3hAmEzkc6mQTWSE1X4G/YQE9FqBmpWokX1nZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\video\\moranguinho.mp4"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/CasdProduto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\7nv2yj890a-kskatr43af.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001748251748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM="
+        }
+      ]
+    },
+    {
+      "Route": "css/CasdProduto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\CasdProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM="
+        }
+      ]
+    },
+    {
+      "Route": "css/CasdProduto.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\7nv2yj890a-kskatr43af.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo="
+        }
+      ]
+    },
+    {
+      "Route": "css/CasdProduto.kskatr43af.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\7nv2yj890a-kskatr43af.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001748251748"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kskatr43af"
+        },
+        {
+          "Name": "label",
+          "Value": "css/CasdProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM="
+        }
+      ]
+    },
+    {
+      "Route": "css/CasdProduto.kskatr43af.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\CasdProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kskatr43af"
+        },
+        {
+          "Name": "label",
+          "Value": "css/CasdProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xBAbvXntdWFM4b/uTQcd5p9ao0CHeOWzsL03vgXUdqM="
+        }
+      ]
+    },
+    {
+      "Route": "css/CasdProduto.kskatr43af.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\7nv2yj890a-kskatr43af.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kskatr43af"
+        },
+        {
+          "Name": "label",
+          "Value": "css/CasdProduto.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WRud4MnOO1gcv1iylLAMlBOaVEXgJQGd3hBn4ooYdYo="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditarProduto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\dcxkqb1ypb-pq3dbrgyn0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002092050209"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditarProduto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\EditarProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditarProduto.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\dcxkqb1ypb-pq3dbrgyn0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditarProduto.pq3dbrgyn0.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\dcxkqb1ypb-pq3dbrgyn0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002092050209"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pq3dbrgyn0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/EditarProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditarProduto.pq3dbrgyn0.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\EditarProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pq3dbrgyn0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/EditarProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/RA1PxzPWDD/yjecyDLxYrSaL+H2haOlzdAp5SGy7E="
+        }
+      ]
+    },
+    {
+      "Route": "css/EditarProduto.pq3dbrgyn0.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\dcxkqb1ypb-pq3dbrgyn0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pq3dbrgyn0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/EditarProduto.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5fQWxPO/hVe4iXZ5u+Rhx5205pLhwzuSCtcyqkrKbbU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\ks96ducl88-g57gmzz2no.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001769911504"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\ks96ducl88-g57gmzz2no.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.g57gmzz2no.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\ks96ducl88-g57gmzz2no.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001769911504"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g57gmzz2no"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.g57gmzz2no.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1222"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g57gmzz2no"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NHqGwgQ/y88qpllIyFB5S7OxexEvhnHYZ/Q0B9RtEnw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.g57gmzz2no.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\ks96ducl88-g57gmzz2no.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 20:15:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g57gmzz2no"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pMnfTaDc0MtP+oxrWv0CXPA53h9KEa1bEHH6laGTGQw="
+        }
+      ]
+    },
+    {
+      "Route": "css/ListarProduto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\y9wdwhcs6w-p71hbyw5mq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006451612903"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8="
+        }
+      ]
+    },
+    {
+      "Route": "css/ListarProduto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\ListarProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8="
+        }
+      ]
+    },
+    {
+      "Route": "css/ListarProduto.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\y9wdwhcs6w-p71hbyw5mq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI="
+        }
+      ]
+    },
+    {
+      "Route": "css/ListarProduto.p71hbyw5mq.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\y9wdwhcs6w-p71hbyw5mq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006451612903"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p71hbyw5mq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/ListarProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8="
+        }
+      ]
+    },
+    {
+      "Route": "css/ListarProduto.p71hbyw5mq.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\ListarProduto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p71hbyw5mq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/ListarProduto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m+zYVmoexgP4beaITBf0Fg+xnw/HFDXatfffJn7TYC8="
+        }
+      ]
+    },
+    {
+      "Route": "css/ListarProduto.p71hbyw5mq.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\y9wdwhcs6w-p71hbyw5mq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p71hbyw5mq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/ListarProduto.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDjDZu+V6djhr1HHrSQU1xJUYFzZqb8SXeEmRyw/mqI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.b9kodx8jwi.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\hfo3bv8v3k-b9kodx8jwi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000927643785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b9kodx8jwi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.b9kodx8jwi.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b9kodx8jwi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.b9kodx8jwi.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\hfo3bv8v3k-b9kodx8jwi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b9kodx8jwi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\hfo3bv8v3k-b9kodx8jwi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000927643785"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jw0dtkmzFi9tFvzJcCvvZ+/zoBrOwxArpwCoIw1o4/o="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\hfo3bv8v3k-b9kodx8jwi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:04:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4A5iwGQZhaCbKFJctWfDiVo8xjqF147hmWIJ01Hwnog="
+        }
+      ]
+    },
+    {
+      "Route": "css/Produto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\gy2km7esef-qr1350ejm6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Produto.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Produto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Produto.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\gy2km7esef-qr1350ejm6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Produto.qr1350ejm6.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\gy2km7esef-qr1350ejm6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003906250000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr1350ejm6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Produto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Produto.qr1350ejm6.css",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Produto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "693"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr1350ejm6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Produto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sg/ecuIVOIiSFwWwwsmI2IZitgDYngEFnkmIkMQWFlI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Produto.qr1350ejm6.css.gz",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\gy2km7esef-qr1350ejm6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 18:36:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr1350ejm6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Produto.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uRZdrLuekTdcoUjQDSF1vOHUyWIWiNmbeaXCr1069iE="
+        }
+      ]
+    },
     {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\obj\\Debug\\net9.0\\compressed\\lm8nzkvm7c-b9sayid5wm.gz",
@@ -21878,6 +23939,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-dkAaWETzkDPExZg6OggNzlPFQie9MRrAget2ScfqxIY="
+        }
+      ]
+    },
+    {
+      "Route": "video/moranguinho.1pspf2pmpt.mp4",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\video\\moranguinho.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71070000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSSXiY3hAmEzkc6mQTWSE1X4G/YQE9FqBmpWokX1nZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1pspf2pmpt"
+        },
+        {
+          "Name": "label",
+          "Value": "video/moranguinho.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSSXiY3hAmEzkc6mQTWSE1X4G/YQE9FqBmpWokX1nZk="
+        }
+      ]
+    },
+    {
+      "Route": "video/moranguinho.mp4",
+      "AssetFile": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\video\\moranguinho.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71070000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSSXiY3hAmEzkc6mQTWSE1X4G/YQE9FqBmpWokX1nZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 19:22:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSSXiY3hAmEzkc6mQTWSE1X4G/YQE9FqBmpWokX1nZk="
         }
       ]
     }

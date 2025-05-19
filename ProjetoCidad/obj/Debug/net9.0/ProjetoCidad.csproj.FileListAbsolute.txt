@@ -116,3 +116,9 @@ C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\refint\ProjetoC
 C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\ProjetoCidad.pdb
 C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\ProjetoCidad.genruntimeconfig.cache
 C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\ref\ProjetoCidad.dll
+C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\compressed\y9wdwhcs6w-p71hbyw5mq.gz
+C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\compressed\gy2km7esef-qr1350ejm6.gz
+C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\compressed\7nv2yj890a-kskatr43af.gz
+C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\compressed\dcxkqb1ypb-pq3dbrgyn0.gz
+C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\compressed\hfo3bv8v3k-b9kodx8jwi.gz
+C:\Users\2mod\Desktop\ProjetoCidad\ProjetoCidad\obj\Debug\net9.0\compressed\ks96ducl88-g57gmzz2no.gz

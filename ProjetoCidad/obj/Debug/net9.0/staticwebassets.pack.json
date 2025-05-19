@@ -5,6 +5,30 @@
       "PackagePath": "staticwebassets\\ProjetoCidad.d7oyuc9vmj.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\CasdProduto.css",
+      "PackagePath": "staticwebassets\\css\\CasdProduto.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\EditarProduto.css",
+      "PackagePath": "staticwebassets\\css\\EditarProduto.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\ListarProduto.css",
+      "PackagePath": "staticwebassets\\css\\ListarProduto.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\Produto.css",
+      "PackagePath": "staticwebassets\\css\\Produto.css"
+    },
+    {
       "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -255,6 +279,10 @@
     {
       "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\wwwroot\\video\\moranguinho.mp4",
+      "PackagePath": "staticwebassets\\video\\moranguinho.mp4"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ProjetoCidad.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
