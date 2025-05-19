@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
-              "RelativeToolTip": "ProjetoCidad\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:19:21.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Usuario.cs",
-              "RelativeToolTip": "ProjetoCidad\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:19:11.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeToolTip": "ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:13:16.438Z",
+              "WhenOpened": "2025-05-19T17:31:37.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "RelativeToolTip": "ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProjetoCidad\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:12:51.407Z",
+              "WhenOpened": "2025-05-19T17:31:15.905Z",
               "EditorCaption": ""
             }
           ]
