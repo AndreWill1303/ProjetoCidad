@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Usuario.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "ProjetoCidad\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:57:01.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:57:01.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Produto.cs",
@@ -87,12 +86,11 @@
               "RelativeToolTip": "ProjetoCidad\\Models\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:56:47.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:56:47.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
@@ -100,12 +98,11 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T17:49:52.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:49:52.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
@@ -113,12 +110,11 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:49:31.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:49:31.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\Error.cshtml",
@@ -126,18 +122,17 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:48:56.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:48:56.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Program.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Program.cs",
               "RelativeToolTip": "ProjetoCidad\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T17:46:29.294Z",
               "EditorCaption": ""
@@ -152,8 +147,7 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Produto\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:43:25.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:43:25.695Z"
             },
             {
               "$type": "Document",
@@ -165,12 +159,11 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:43:07.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:43:07.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CadastrarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
@@ -183,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Login\\Login.cshtml",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Login\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:40:36.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:40:36.834Z"
             },
             {
               "$type": "Document",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:38:05.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:38:05.029Z"
             },
             {
               "$type": "Document",
@@ -217,8 +208,7 @@
               "RelativeToolTip": "ProjetoCidad\\Controllers\\ProdutoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:31:37.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:31:37.588Z"
             },
             {
               "$type": "Document",
