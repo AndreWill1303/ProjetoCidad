@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,11 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoCidad\\appsettings.json",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\appsettings.json",
+              "RelativeToolTip": "ProjetoCidad\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T18:08:34.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Usuario.cs",
@@ -78,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Produto.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
@@ -102,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\Error.cshtml",
@@ -126,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Program.cs",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\Index.cshtml",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "EditarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CadastrarProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
@@ -171,12 +188,11 @@
               "RelativeToolTip": "ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T17:42:55.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T17:42:55.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Login\\Login.cshtml",
@@ -188,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Home\\Index.cshtml",
@@ -200,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Controllers\\ProdutoController.cs",
@@ -212,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Controllers\\LoginController.cs",
