@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\repositorio\\loginrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\produto\\editarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\produto\\editarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\produto\\cadastrarproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|c:\\users\\2mod\\desktop\\projetocidad\\projetocidad\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2D3F7D-26C9-45CE-9769-1AD3984A9810}|ProjetoCidad\\ProjetoCidad.csproj|solutionrelative:projetocidad\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
-              "RelativeToolTip": "ProjetoCidad\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:19:21.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Usuario.cs",
               "RelativeToolTip": "ProjetoCidad\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:19:11.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "RelativeToolTip": "ProjetoCidad\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:13:16.438Z",
+              "WhenOpened": "2025-05-19T17:57:01.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "RelativeDocumentMoniker": "ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "RelativeToolTip": "ProjetoCidad\\Repositorio\\LoginRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Models\\Produto.cs",
+              "RelativeToolTip": "ProjetoCidad\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T17:12:51.407Z",
+              "WhenOpened": "2025-05-19T17:56:47.376Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T17:49:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:49:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:48:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Program.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Program.cs",
+              "RelativeToolTip": "ProjetoCidad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:46:29.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:43:25.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Produto\\EditarProduto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:43:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarProduto.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Produto\\CadastrarProduto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:42:55.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:40:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoCidad\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:38:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ProjetoCidad\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:31:37.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProjetoCidad\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\ProjetoCidad\\ProjetoCidad\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProjetoCidad\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:31:15.905Z"
             }
           ]
         }
